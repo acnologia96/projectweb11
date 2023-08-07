@@ -1,0 +1,16 @@
+.Completed{
+    
+    background: green;
+}
+.Not{
+    
+    background: #FF8400;
+}
+.Cancelled{
+    
+    background: red;
+}
+.Processing{
+    
+    background:  #BACDDB;
+}
